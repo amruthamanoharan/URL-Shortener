@@ -25,7 +25,7 @@ A simple URL shortener web application built with **Laravel**.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/amruthamanoharan/url-shortener.git
+   git clone https://github.com/amruthamanoharan/URL-Shortener.git
    ```
 2. **Navigate to the project directory:**
 
